@@ -226,4 +226,32 @@
 
 <section id="buy">
   <h2>Buy “Myrtle”</h2>
-  <a class="bt
+  <a class="btn">Amazon (Coming Soon)</a>
+  <a class="btn">Barnes & Noble (Coming Soon)</a>
+  <a class="btn">Foundation Store (Coming Soon)</a>
+</section>
+
+<section id="social">
+  <h2>Social</h2>
+  <div class="social">
+    <a href="#"><i class="fab fa-facebook"></i> Facebook</a>
+    <a href="#"><i class="fab fa-instagram"></i> Instagram</a>
+    <a href="#"><i class="fab fa-tiktok"></i> TikTok</a>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <a href="mailto:your.email@gmail.com" class="btn">
+    <i class="fa-solid fa-envelope"></i> Email Us
+  </a>
+</section>
+
+</main>
+
+<footer>
+  © 2025 Kathleen McCauley Anast Foundation
+</footer>
+
+</body>
+</html>
